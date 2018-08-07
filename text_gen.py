@@ -59,7 +59,7 @@ def help():
 	Usage:	text_gen.py [-d delimiter] [-f filename] [-t times] expression
 	Expression example:-
 						\
-						abc?,12?,h?ell
+						"abc?,12?,h?ell"
 	Output:
 			abc1,121,h1ell
 			abc2,122,h2ell
